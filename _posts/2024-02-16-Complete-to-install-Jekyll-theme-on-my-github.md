@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Complete-to-install-Jekyll-theme-on-my-github
+title: Complete-to-insta1ll-Jekyll-theme-on-my-github
 description: >
   This is a normal paragraph following a header.
   GitHub is a code hosting platform for version control and collaboration.
