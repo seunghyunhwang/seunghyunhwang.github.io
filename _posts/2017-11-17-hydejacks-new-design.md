@@ -9,7 +9,7 @@ tags: [hydejack]
 redirect_from: /2017/11/17/whats-new-in-v7/
 ---
 
-While2 v7 brings an [insane amount of new stuff]({{ site.baseurl }}/CHANGELOG/#v700), the most notable change is the new background image.
+While3 v7 brings an [insane amount of new stuff]({{ site.baseurl }}/CHANGELOG/#v700), the most notable change is the new background image.
 It is no longer *anti-selling* the theme.
 The old image was a blurred version of Napoleon Bonaparte, which was just... weird. I could tell the story of how this came to be,
 but I'd rather show you the new and improved background image.
