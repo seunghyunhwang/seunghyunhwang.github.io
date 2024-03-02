@@ -8,7 +8,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   schedule:
-    - cron : '48 * * * *'
+    - cron : '0 * * * *'
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
