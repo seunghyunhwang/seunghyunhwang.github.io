@@ -1,6 +1,6 @@
 ---
 layout: list
-title: aSSIST
+title: aSSIST1
 slug: aSSIST
 menu: true
 order: 1
