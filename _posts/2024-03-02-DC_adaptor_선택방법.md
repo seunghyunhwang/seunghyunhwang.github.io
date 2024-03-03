@@ -15,7 +15,6 @@ tags: [hydejack]
 
 제 3대 중 두대의 모니터는 아래와 같이 정면을 바라보는 형태로 구성되어있었어요
 
-![1709461214410](/../../assets/img/1709461214410.png)
 <img src="/assets/img/1709461214410.png">
 
 한대는 아래와 같이 어댑터 구멍이 아래를 향하고 있어요!
@@ -36,63 +35,11 @@ tags: [hydejack]
 
 그래서 아래와 같이 가정을 해서 구매하기로 결정했습니다. 배송비 두배로 날리는 것보다는 리스크가 적다고 판단됐어요.
 
-| 직각 포인트는 모니터입력과 가까워야함.||
+| 직각 포인트는 모니터입력과 가까워야함.                                                                                                                                                                                                             |                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 주연테크가 5mm 2.5라면?                                                                                                                                                                                                                            | 주연테크가 5mm 2.1라면?                                                                                                                                |
 | Adaptor DC 5mm 2.5mm 출력<br /><br />Gender 직선 DC 5mm 2.5mm(MT345-입력)<br />Gender 직선 DC 5mm 2.1mm(MT345-출력)<br /><br />Gender 직각 DC 5mm 2.1mm(MT328-입력)<br />Gender 직각 DC 5mm 2.5mm(MT328-출력)<br /><br />Monitor DC 5mm 2.5mm 입력 | 주연테크가 5mm 2.1라면?<br /><br />Gender 직각 DC 5mm 2.1mm(MT326-입력)<br />Gender 직각 DC 5mm 2.1mm(MT326-출력)<br /><br />Monitor DC 5mm 2.1mm 입력 |
 
-<br><br />
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-
-<br><br />
-|               |          Grouping             ||         Grouping 2         ||  Not Grouped    |
-| First Header  | Second Header | Third Header   | Forth Header | Fifth Header | Sixth Header    |
-| ------------- | :-----------: | -------------: | :----------: | :----------: | --------------- |
-| Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
-| ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
-| ^^            |               | 1. second item |              | 1. forth item | + second point |
-
-| New section   |     More      |         Data   | ... - -- --- |||
-| And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
-[Compicated table]
-
-
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
-dd<br />
-<br />
-<br />
-
 # DC Adaptor 검색 결과
+
+검색하여 아래와 같이 
