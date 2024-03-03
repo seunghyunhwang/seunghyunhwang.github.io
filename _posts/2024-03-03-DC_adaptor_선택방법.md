@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: DC Adaptor 구매하기
 description: >
   Monitor를 구매했는데 요새 사용하는 전원케이블(3-PIN형)이 아니라, DC Jack 형태여서 직각 변환 젠더가 필요한 상태라 구매하였음.
 tags: [hydejack]
+---
 ---
 
 There are multiple ways of installing Hydejack.
@@ -56,3 +57,9 @@ Buyers of the PRO version should [follow these steps](#pro-version).
 ## DC Adaptor 검색 결과
 
 검색하여 아래와 같이 
+
+It's an immensely useful tool and one we encourage you to use here with Hyde.
+
+Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+
+[docs]: ../docs/7.5.2/index.md
