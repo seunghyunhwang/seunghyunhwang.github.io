@@ -16,12 +16,7 @@ tags: [hydejack]
 제 3대 중 두대의 모니터는 아래와 같이 정면을 바라보는 형태로 구성되어있었어요
 
 ![1709461214410](/../../assets/img/1709461214410.png)
-![1709461214410](/../assets/img/1709461214410.png)
-![1709461214410](/././assets/img/1709461214410.png)
-![1709461214410](/./assets/img/1709461214410.png)
-![1709461214410](/img/1709461214410.png)
-![1709461214410](/1709461214410.png)
-<img src="/assets/img/sidebar-bg.jpg">
+<img src="/assets/img/1709461214410.png">
 
 한대는 아래와 같이 어댑터 구멍이 아래를 향하고 있어요!
 
@@ -58,6 +53,16 @@ New section   |     More      |         Data |
 And more      | With an escaped '\|'         ||  
 
 <br><br />
+|               |          Grouping             ||         Grouping 2         ||  Not Grouped    |
+| First Header  | Second Header | Third Header   | Forth Header | Fifth Header | Sixth Header    |
+| ------------- | :-----------: | -------------: | :----------: | :----------: | --------------- |
+| Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
+| ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
+| ^^            |               | 1. second item |              | 1. forth item | + second point |
+
+| New section   |     More      |         Data   | ... - -- --- |||
+| And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
+[Compicated table]
 
 
 <table>
