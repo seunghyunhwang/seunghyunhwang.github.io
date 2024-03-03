@@ -3,7 +3,7 @@ layout: post
 title: DC Adaptor 구매하기
 description: >
   Monitor를 구매했는데 요새 사용하는 전원케이블(3-PIN형)이 아니라, DC Jack 형태여서 직각 변환 젠더가 필요한 상태라 구매하였음.
-tags: [hydejack]
+tags: [aSSIST]
 ---
 ---
 

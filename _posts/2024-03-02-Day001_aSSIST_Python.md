@@ -14,9 +14,9 @@ tags: [aSSIST]
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-## 1 setting -> keyboard -> support key -> you can change the mapping.
+## 1 DC Adaptor 구매 목적
 -----------------------------------------------------------------
-ddddd
+개발환경을 구축하기위해 모니터를 3대 구매했어요...... 근데.. 전원케이블이 휘어서 어댑터를 구매하게 되었습니다.
 
 ## 2 setting -> keyboard -> support key -> you can change the mapping.
 -----------------------------------------------------------------
