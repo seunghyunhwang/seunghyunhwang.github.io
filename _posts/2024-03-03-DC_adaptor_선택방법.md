@@ -8,8 +8,11 @@ tags: [aSSIST]
 ---
 
 ## Table of Contents
-* TOC
+{:.no_toc}
+0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
+<!-- * TOC
+{:toc} -->
 
 
 ## DC Adaptor 구매 목적
@@ -24,7 +27,8 @@ tags: [aSSIST]
 
 한대는 아래와 같이 어댑터 구멍이 아래를 향하고 있어요!
 
-![1709461453376](/../../assets/img/1709461453376.png)
+<img src="/assets/img/1709461453376.png">
+<!-- ![1709461453376](/../../assets/img/1709461453376.png) -->
 
 1번과 같이 정면을 바라보면 꼽기가 굉장히 수월하다는 장점이 있으나, 모니터 뒤에 장애물이 있으면 어댑터나 케이블 간섭 영향이 크다는 단점이 있어요
 
