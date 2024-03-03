@@ -1,9 +1,9 @@
 ---
 layout: list
-title: KongSoonDDak
-slug: kongsoonddak
+title: ASSIST
+slug: assist
 menu: true
-order: 4
+order: 1
 description: >
   Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
   [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
