@@ -15,6 +15,7 @@ tags: [aSSIST]
 {:toc}
 
 ## 1 setting -> keyboard -> support key -> you can change the mapping.
+-----------------------------------------------------------------
 ddddd
 
 ## 2 setting -> keyboard -> support key -> you can change the mapping.

@@ -7,14 +7,6 @@ tags: [hydejack]
 ---
 ---
 
-There are multiple ways of installing Hydejack.
-The easiest and cleanest way is [via the Starter Kit](#via-starter-kit).
-Alternatively, you can use the [Ruby gem](#via-gem).
-If you don't mind a cluttered source directory, you can use [the zip file](#via-zip).
-Finally, If you know what you are doing, you can [fork the git repository](#via-git).
-
-Buyers of the PRO version should [follow these steps](#pro-version).
-
 ## Table of Contents
 {:.no_toc}
 0. this unordered seed list will be replaced by toc as unordered list
@@ -22,11 +14,11 @@ Buyers of the PRO version should [follow these steps](#pro-version).
 
 
 ## DC Adaptor 구매 목적
-
+-----------------------------------------------------------------
 개발환경을 구축하기위해 모니터를 3대 구매했어요...... 근데.. 전원케이블이 휘어서 어댑터를 구매하게 되었습니다.
 
 ## 현재 모니터 상황
-
+-----------------------------------------------------------------
 제 3대 중 두대의 모니터는 아래와 같이 정면을 바라보는 형태로 구성되어있었어요
 
 <img src="/assets/img/1709461214410.png">
