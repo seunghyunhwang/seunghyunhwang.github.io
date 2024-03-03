@@ -1,7 +1,7 @@
 ---
 layout: list
-title: ASSIST
-slug: assist
+title: aSSIST
+slug: aSSIST
 menu: true
 order: 1
 description: >
