@@ -12,11 +12,11 @@ tags: [hydejack]
 {:toc}
 
 
-# DC Adaptor 구매 목적
+## DC Adaptor 구매 목적
 
 개발환경을 구축하기위해 모니터를 3대 구매했어요...... 근데.. 전원케이블이 휘어서 어댑터를 구매하게 되었습니다.
 
-# 현재 모니터 상황
+## 현재 모니터 상황
 
 제 3대 중 두대의 모니터는 아래와 같이 정면을 바라보는 형태로 구성되어있었어요
 
@@ -34,7 +34,7 @@ tags: [hydejack]
 
 그래서 어쩔수 없이 DC Adaptor 직각형을 알아보기로 하고 검색을 해보려고 합니다.
 
-# 현재 가지고 있는 모니터의 Adaptor 잭의 크기는 무엇인가?
+## 현재 가지고 있는 모니터의 Adaptor 잭의 크기는 무엇인가?
 
 모니터 adaptor 잭의 크기를 재기가 어려웠어요. 5mm로 보이긴 하는데 내경이 2.1mm 인지, 2.5mm 인지 잘 모르겠더라고요.
 
@@ -45,6 +45,6 @@ tags: [hydejack]
 | 주연테크가 5mm 2.5라면?                                                                                                                                                                                                                            | 주연테크가 5mm 2.1라면?                                                                                                                                |
 | Adaptor DC 5mm 2.5mm 출력<br /><br />Gender 직선 DC 5mm 2.5mm(MT345-입력)<br />Gender 직선 DC 5mm 2.1mm(MT345-출력)<br /><br />Gender 직각 DC 5mm 2.1mm(MT328-입력)<br />Gender 직각 DC 5mm 2.5mm(MT328-출력)<br /><br />Monitor DC 5mm 2.5mm 입력 | 주연테크가 5mm 2.1라면?<br /><br />Gender 직각 DC 5mm 2.1mm(MT326-입력)<br />Gender 직각 DC 5mm 2.1mm(MT326-출력)<br /><br />Monitor DC 5mm 2.1mm 입력 |
 
-# DC Adaptor 검색 결과
+## DC Adaptor 검색 결과
 
 검색하여 아래와 같이 
