@@ -1,10 +1,18 @@
 ---
-layout: post
+layout: page
 title: DC Adaptor 구매하기
 description: >
   Monitor를 구매했는데 요새 사용하는 전원케이블(3-PIN형)이 아니라, DC Jack 형태여서 직각 변환 젠더가 필요한 상태라 구매하였음.
 tags: [hydejack]
 ---
+
+There are multiple ways of installing Hydejack.
+The easiest and cleanest way is [via the Starter Kit](#via-starter-kit).
+Alternatively, you can use the [Ruby gem](#via-gem).
+If you don't mind a cluttered source directory, you can use [the zip file](#via-zip).
+Finally, If you know what you are doing, you can [fork the git repository](#via-git).
+
+Buyers of the PRO version should [follow these steps](#pro-version).
 
 ## Table of Contents
 {:.no_toc}
